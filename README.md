@@ -5,7 +5,6 @@
 This repository contains the certificate of completion for the SOC Training program. The training covered various aspects of Security Operations Center (SOC) monitoring, incident response, and cybersecurity best practices.
 
 ![Certificate Preview](SOC_training_cert-1.png)  
-(*Replace this with your actual certificate image*)
 
 ## Training Details
 
