@@ -9,9 +9,9 @@ This repository contains the certificate of completion for the SOC Training prog
 ## Training Details
 
 - **Training Name:** SOC Training
-- **Platform:** [Mention the platform, e.g., TryHackMe, Cybrary, etc.]
-- **Completion Date:** [Your completion date]
-- **Duration:** [Total hours spent]
+- **Platform:** TryHackMe.com
+- **Completion Date:** 11th Febuary 2025
+- **Duration:** 87 hours
 
 ## Skills Acquired
 
