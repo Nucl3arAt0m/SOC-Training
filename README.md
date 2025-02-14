@@ -28,21 +28,13 @@ During the training, I developed skills in:
 
 You can verify my certificate using the following link:
 
-[Certificate Verification Link](#)  
+[Certificate Verification Link](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CINQ2DHL3F.pdf)  
 (*Replace this with your actual certificate link if available*)
 
 ## Repository Contents
 
-- `certificate.png` - The certificate of completion
+- `SOC-training_cert-1.png` - The certificate of completion
 - `README.md` - This file describing the training and certificate
-
-## Contact
-
-For any queries, feel free to reach out:
-
-- **GitHub:** [Your GitHub Profile](#)
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [Your Email](#)
 
 ---
 
