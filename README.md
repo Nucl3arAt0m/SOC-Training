@@ -29,7 +29,6 @@ During the training, I developed skills in:
 You can verify my certificate using the following link:
 
 [Certificate Verification Link](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-CINQ2DHL3F.pdf)  
-(*Replace this with your actual certificate link if available*)
 
 ## Repository Contents
 
