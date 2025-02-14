@@ -1,1 +1,1 @@
-# SOC-Training
+TryHackMe SOC Level 1
